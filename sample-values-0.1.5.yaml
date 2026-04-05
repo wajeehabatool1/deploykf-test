@@ -83,7 +83,7 @@ deploykf_dependencies:
   ##             cert-manager
   ## --------------------------------------
   cert_manager:
-    enabled: true
+    enabled: false
     namespace: cert-manager
 
     ## extra manifests
